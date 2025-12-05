@@ -8,10 +8,10 @@
 [//]: # (contest-details-open)
 
 ## Result
-- High- User always get charge with sellFee when buy ReFi
-- High- Unsafe transfer function from withdrawTokens
-- Medium- Event emitted after external call
-- Low- TokensWithdraw Event is emitted with mismatch parameter
+- High-V User always get charge with sellFee when buy ReFi
+- Medium-V Unsafe transfer function from withdrawTokens
+- Medium-I Event emitted after external call
+- Low-V TokensWithdraw Event is emitted with mismatch parameter
 
 
 ## About the Project
